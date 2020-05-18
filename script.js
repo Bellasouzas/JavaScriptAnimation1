@@ -1,0 +1,1 @@
+gsap.to("#logo", { duration: 3, ease: "bounce.out", x: 180 }
